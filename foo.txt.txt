@@ -1,1 +1,5 @@
 Yes git sucks :)
+
+För att skapa en Apk fil the easy way
+
+https://build.phonegap.com/apps
